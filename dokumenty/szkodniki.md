@@ -38,6 +38,8 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 * [Koraliczek](https://mrucznik-rp.pl/user/15075-koraliczek/) - udostępnianie i rozpowszechnianie zdjęć oraz danych osobowych usera forum
 * [komunista dowell](https://mrucznik-rp.pl/user/2127-komunista-dowell/) - liczne obrazy, 50 notatek (11.02.2018), offtop, multikonta, spam
 * [cymbalista vjed/niceczłowiek/5777](https://mrucznik-rp.pl/user/8615-cymbalista-vjed/) - udostępnianie kodu mrucznik 2.5
+* [123](https://mrucznik-rp.pl/user/9238-123/)/[three5ixtyy](https://mrucznik-rp.pl/user/7961-three5ixtyy/)/[bishop](https://mrucznik-rp.pl/user/13561-bishop/)/[Brylson12](https://mrucznik-rp.pl/user/18610-brylson12/) -
+ogromna ilość warnów, liczne multikonta, adresy vpn utrudniające weryfikację, serwerowa lista bez ub, szkodnik n01
 
 
 ## Kandydaci do listy bez unbana
