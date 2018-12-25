@@ -41,6 +41,7 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 * [123](https://mrucznik-rp.pl/user/9238-123/)/[three5ixtyy](https://mrucznik-rp.pl/user/7961-three5ixtyy/)/[bishop](https://mrucznik-rp.pl/user/13561-bishop/)/[Brylson12](https://mrucznik-rp.pl/user/18610-brylson12/) -
 ogromna ilość warnów, liczne multikonta, adresy vpn utrudniające weryfikację, serwerowa lista bez ub, szkodnik n01
 * [hesho](https://mrucznik-rp.pl/user/5669-hesho-g-star/)- 67 warnów (2 grudnia 2017), liczne orbazy, brak kultury, nagminne wulgaryzmy, ogólne szambo | awans na liste bez ub z listy ostatniej szansy, kolejne obrazy, kolejne multikonta, kompletny brak resocjalizacji
+* [kozan](https://mrucznik-rp.pl/user/9977-kozanosky/) - 62 warnów (25 grudnia 2018), nadmierne i masowe obrazy, publikowanie cudzych zdjęć, masa offtopu, ban po liście ostatniej szansy, wstawianie treści erotycznych
 
 
 ## Kandydaci do listy bez unbana
