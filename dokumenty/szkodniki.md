@@ -43,6 +43,7 @@ ogromna ilość warnów, liczne multikonta, adresy vpn utrudniające weryfikacj�
 * [hesho](https://mrucznik-rp.pl/user/5669-hesho-g-star/)- 67 warnów (2 grudnia 2017), liczne orbazy, brak kultury, nagminne wulgaryzmy, ogólne szambo | awans na liste bez ub z listy ostatniej szansy, kolejne obrazy, kolejne multikonta, kompletny brak resocjalizacji
 * [kozan](https://mrucznik-rp.pl/user/9977-kozanosky/) - 62 warnów (25 grudnia 2018), nadmierne i masowe obrazy, publikowanie cudzych zdjęć, masa offtopu, ban po liście ostatniej szansy, wstawianie treści erotycznych
 * [JaszczuR](https://mrucznik-rp.pl/topic/76814-oban-jaszczur/) - obraza członka ekipy forum (długa wiązanka), życzenie śmierci - więcej info w warnie 20762
+* [szyla](https://mrucznik-rp.pl/user/17551-szyla/) - gigantyczna ilość multikont
 
 
 ## Kandydaci do listy bez unbana
