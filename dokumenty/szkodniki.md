@@ -44,7 +44,6 @@ ogromna ilość warnów, liczne multikonta, adresy vpn utrudniające weryfikacj�
 * [kozan](https://mrucznik-rp.pl/user/9977-kozanosky/) - 62 warnów (25 grudnia 2018), nadmierne i masowe obrazy, publikowanie cudzych zdjęć, masa offtopu, ban po liście ostatniej szansy, wstawianie treści erotycznych
 * [JaszczuR](https://mrucznik-rp.pl/topic/76814-oban-jaszczur/) - obraza członka ekipy forum (długa wiązanka), życzenie śmierci - więcej info w warnie 20762
 * [szyla](https://mrucznik-rp.pl/user/17551-szyla/) - gigantyczna ilość multikont
-* [LuuckyDice/ralph](https://mrucznik-rp.pl/user/8703-luuckydice/) - liczne obrazy, offtop, liczne wulgaryzmy, gigantyczna kartoteka, udostępnianie pornografii, 55 warnów (25 grudnia 2018), 
 
 
 ## Kandydaci do listy bez unbana
@@ -57,6 +56,7 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę.
 * [fidif](https://mrucznik-rp.pl/user/306-fidif/) - 52 warny (2 grudnia 2017), masa notatek za orbazy, brak poprawy, offtop, totalny brak kultury i szans na poprawe
 * [Pan Morisson](https://mrucznik-rp.pl/user/531-pan-morisson/) - 51 warnów (2 grudnia 2017), liczny offtop, obrazy, ogólne szambo, brak poprawy
 * [en6x](http://mrucznik-rp.pl/user/4791-en6x/) - 49 warnów (2 grudnia 2017), liczne obrazy, offtop, brak szansy na poprawe
+* [LuuckyDice](https://mrucznik-rp.pl/user/8703-luuckydice/) - liczne obrazy, offtop, liczne wulgaryzmy, gigantyczna kartoteka,
 * [OYCHE DONIZ](http://mrucznik-rp.pl/user/911-oyche-doniz/) - gigantyczna kartoteka, liczne obrazy, offtop, prowokacje, brak kultury
 * [don faraone](https://mrucznik-rp.pl/user/1119-lil-frachty/) - gigantyczna kartoteka, offtop, liczne obrazy i wulgaryzmy, treści pornograficzne, brak kultury, vpn
 * [PRT](https://mrucznik-rp.pl/user/267-prt/) - gigantyczna kartoteka, offtop, liczne i masowe obrazy, brak kultury
@@ -94,4 +94,4 @@ Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
 * [J rrye](https://mrucznik-rp.pl/user/78-j-rrye/)
 * [K E V L A R](https://mrucznik-rp.pl/user/7632-k-e-v-l-a-r/)
 * [KVMIL](https://mrucznik-rp.pl/user/1187-kvmil/)
-* [Bradus/Braduś](https://mrucznik-rp.pl/user/384-bradus/)
+* [Bradus/Braduś/Corleone](https://mrucznik-rp.pl/user/384-bradus/)
