@@ -44,7 +44,7 @@ ogromna ilość warnów, liczne multikonta, adresy vpn utrudniające weryfikacj�
 * [kozan](https://mrucznik-rp.pl/user/9977-kozanosky/) - 62 warnów (25 grudnia 2018), nadmierne i masowe obrazy, publikowanie cudzych zdjęć, masa offtopu, ban po liście ostatniej szansy, wstawianie treści erotycznych
 * [JaszczuR](https://mrucznik-rp.pl/topic/76814-oban-jaszczur/) - obraza członka ekipy forum (długa wiązanka), życzenie śmierci - więcej info w warnie 20762
 * [szyla](https://mrucznik-rp.pl/user/17551-szyla/) - gigantyczna ilość multikont
-
+* [rappa](https://mrucznik-rp.pl/user/16099-rappa/) - gigantyczna kartoteka, liczne obrazy i wulgaryzmy, brak szacunku do administracji jak i do innych użytkowników, liczne MK po otrzymaniu bana
 
 ## Kandydaci do listy bez unbana
 Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę.
