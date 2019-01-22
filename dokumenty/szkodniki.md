@@ -48,7 +48,7 @@ ogromna ilość warnów, liczne multikonta, adresy vpn utrudniające weryfikacj�
 * [rappa](https://mrucznik-rp.pl/user/16099-rappa/) - gigantyczna kratoteka, liczne obrazy i wulgaryzmy, pokaźne ilości multikont
 
 ## Kandydaci do listy bez unbana
-Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę.
+Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany ban jest równoznaczny z automatycznym awansem użytkownika na listę bez unbana.
 * [JOSEF MENGELE/wojtek brooklyn/wojtek brkln](https://mrucznik-rp.pl/user/569-wojtek-brkln/) - liczne obrazy, liczne multikonta, offtop, brak jakiejkolwiek poprawy, gigantyczna kartoteka, 62 warnów (2 grudnia 2017), liczne obrazy, offtop, brak kultury, nagminne wulgaryzmy, ogólne szambo
 * [\_Daniel\_](https://mrucznik-rp.pl/user/229-daniel/) - gigantyczna kartoteka, liczne obrazy, offtop, liczne wulgaryzmy, brak szans na poprawe
 * [Bonger](https://mrucznik-rp.pl/user/453-bonger/) - 33 warny, liczne obrazy, multikonta, rozpowszechnianie logów serwerowych, dyskryminacja rasowa
