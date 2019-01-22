@@ -96,3 +96,4 @@ Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
 * [K E V L A R](https://mrucznik-rp.pl/user/7632-k-e-v-l-a-r/)
 * [KVMIL](https://mrucznik-rp.pl/user/1187-kvmil/)
 * [Bradus/Braduś/Corleone](https://mrucznik-rp.pl/user/384-bradus/)
+* [Czacha/Więzień] (https://mrucznik-rp.pl/user/15102-czacha/) / (https://mrucznik-rp.pl/user/19671-wi%C4%99zie%C5%84/)
