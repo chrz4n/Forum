@@ -9,7 +9,7 @@
 * Treści widoczne na forum, regulaminy, działy są ujęte prawami autorskimi.
 * Treści, które mają na celu promocję innych projektów są surowo zabronione.
 * Za czyny, które nie zostały wymienione w punktach regulaminu decyzję o ukaraniu użytkownika (i jego karze) podejmuje moderator za zgodą Administratora Forum.
-* Użytkownik jest zobowiązany do uzupełnienia pełnymi danymi z serwera gry SA-MP jakim jest Mrucznik Role Play (samp.mrucznik-rp.pl), pod polem [Nick IC]. Oszustwa są surowo zabronione i karane.
+* Użytkownik jest zobowiązany do uzupełnienia pełnymi danymi z serwera gry SA-MP jakim jest Mrucznik Role Play (samp.mrucznik-rp.pl), pod polem [Nick IC]. W przypadku braku/bezczynności konta na serwerze pole zostawiamy puste (warunek bezczynności konta to brak umieszczonych skarg/apelacji/tematów na forum związanych z kontem na serwerze w przeciągu 6 miesięcy). Oszustwa są surowo zabronione i karane.
 
 ## Korzystanie z forum Mrucznik Role Play
 * Na forum www.mrucznik-rp.pl, z jednego konta globalnego może korzystać tylko i wyłącznie jedna osoba, zabrania się udostępniania konta globalnego dla osób trzecich, podawania danych do logowania na stronę WWW. Zabrania się również tworzenia multikont na forum. Jeśli przypadkiem jest współdzielenie swojego łącza internetowego, dany użytkownik jest zobowiązany do zgłoszenia takiego czynu w specjalnym temacie. (Przejdź do tematu). Za brak wpisu w temacie o współdzieleniu łącza, karą może być nawet odcięcie od dostępu do forum.
