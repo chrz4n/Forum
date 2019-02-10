@@ -23,6 +23,7 @@
 * Nadmierne używanie słów wulgarnych, wyzwiska, hejt, trollowanie - skutkuje karą nadaną przez moderatora. W powyższe punkty wchodzą rzeczy takie jak prywatne wiadomości, statusy, posty, tematy, panel gracza. Karze podlega zarówno osoba, która wykonuje powyższe czyny oraz ta, która wdaje się w działania, oraz też nakłania do działań.
 * Zakazuje się umieszczanie ofert handlowych, linków w celach zarobkowych na całym forum, karą może być nawet odcięcie od dostępu do serwera SA-MP oraz forum.
 * Nazwa użytkownika nie może być wulgarna i w żaden sposób prowokacyjna, zastrzega się również błędów ortograficznych.
+* Forum nie wspiera piractwa, tym samym zakazuje się publikacji odnośników do stron zawierających oprogramowanie pirackie lub łamiące zabezpieczenia.
 * Na forum obowiązuje zakaz publikacji cudzych zdjęć i danych osobowych bez zgody osoby której dotyczą.
 
 ## Prawa moderatora.
