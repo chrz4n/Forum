@@ -46,12 +46,12 @@ ogromna ilość warnów, liczne multikonta, adresy vpn utrudniające weryfikacj�
 * [szyla](https://mrucznik-rp.pl/user/17551-szyla/) - gigantyczna ilość multikont
 * [Ksenon](https://mrucznik-rp.pl/user/14795-ksenon/) - gigantyczna kartoteka, liczne obrazy i wulgaryzmy, brak szacunku do administracji jak i do innych użytkowników, liczne MK po otrzymaniu bana
 * [rappa](https://mrucznik-rp.pl/user/16099-rappa/) - gigantyczna kratoteka, liczne obrazy i wulgaryzmy, pokaźne ilości multikont
+* [Bonger](https://mrucznik-rp.pl/user/453-bonger/) - bogata kartoteka, liczne obrazy, multikonta, rozpowszechnianie logów serwerowych, dyskryminacja rasowa. Brak poprawy pomimo wielu szans
 
 ## Kandydaci do listy bez unbana
 Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany ban jest równoznaczny z automatycznym awansem użytkownika na listę bez unbana.
 * [JOSEF MENGELE/wojtek brooklyn/wojtek brkln/brooklyn](https://mrucznik-rp.pl/user/569-wojtek-brkln/) - liczne obrazy, liczne multikonta, offtop, brak jakiejkolwiek poprawy, gigantyczna kartoteka, 62 warnów (2 grudnia 2017), liczne obrazy, offtop, brak kultury, nagminne wulgaryzmy, ogólne szambo
 * [\_Daniel\_](https://mrucznik-rp.pl/user/229-daniel/) - gigantyczna kartoteka, liczne obrazy, offtop, liczne wulgaryzmy, brak szans na poprawe
-* [Bonger](https://mrucznik-rp.pl/user/453-bonger/) - 33 warny, liczne obrazy, multikonta, rozpowszechnianie logów serwerowych, dyskryminacja rasowa
 * [jmpr ue/Jumper](http://mrucznik-rp.pl/user/1175-jmpr-ue/) - 60 warnów (2 grudnia 2017), obrazy, offtop, brak poprawy, ogólne szkodzenie
 * [\_Patrykoo\_/skJerry](http://mrucznik-rp.pl/user/150-patrykoo/) - 56 warnów (2 grudnia 2017), liczne obrazy, offtop, nagminne wulgaryzmy, brak poprawy
 * [fidif/twój stary pijany](https://mrucznik-rp.pl/user/306-fidif/) - 52 warny (2 grudnia 2017), masa notatek za orbazy, brak poprawy, offtop, totalny brak kultury i szans na poprawe
@@ -71,6 +71,8 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany
 * [PHC](https://mrucznik-rp.pl/user/194-phc/) - udostępnianie i rozpowszechnianie zdjęć oraz danych osobowych usera forum
 * [Bleku/Blekuś](https://mrucznik-rp.pl/user/9598-bleku%C5%9B/) - udostępnianie i rozpowszechnianie zdjęć oraz danych osobowych usera forum
 * [matewowo/ven0m/mathewow_mrucznik](https://mrucznik-rp.pl/user/9385-matewowo/)/[ven0m](https://mrucznik-rp.pl/user/17818-ven0m/) - spora kartoteka, nagminne obrazy, offtop, liczne wulgaryzmy, multikonta
+*  [Bradus/Braduś/Corleone/Gotti](https://mrucznik-rp.pl/user/384-gotti/) - Spora kartoteka, liczne obrazy, wulgaryzmy, prowokacje i offtop. Brak poprawy pomimo przeprosin i obietnic.
+
 
 
 
@@ -94,5 +96,4 @@ Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
 * [J rrye/mqqq](https://mrucznik-rp.pl/user/78-j-rrye/)
 * [K E V L A R](https://mrucznik-rp.pl/user/7632-k-e-v-l-a-r/)
 * [KVMIL/RES3T](https://mrucznik-rp.pl/user/1187-kvmil/)
-* [Bradus/Braduś/Corleone](https://mrucznik-rp.pl/user/384-bradus/)
 * [Czacha/Więzień] (https://mrucznik-rp.pl/user/15102-czacha/) / (https://mrucznik-rp.pl/user/19671-wi%C4%99zie%C5%84/)
