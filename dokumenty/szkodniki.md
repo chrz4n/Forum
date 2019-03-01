@@ -72,6 +72,7 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany
 * [Bleku/Blekuś](https://mrucznik-rp.pl/user/9598-bleku%C5%9B/) - udostępnianie i rozpowszechnianie zdjęć oraz danych osobowych usera forum
 * [matewowo/ven0m/mathewow_mrucznik](https://mrucznik-rp.pl/user/9385-matewowo/)/[ven0m](https://mrucznik-rp.pl/user/17818-ven0m/) - spora kartoteka, nagminne obrazy, offtop, liczne wulgaryzmy, multikonta
 *  [Bradus/Braduś/Corleone/Gotti](https://mrucznik-rp.pl/user/384-gotti/) - Spora kartoteka, liczne obrazy, wulgaryzmy, prowokacje i offtop. Brak poprawy pomimo przeprosin i obietnic.
+* [Vanś](https://mrucznik-rp.pl/user/12246-van%C5%9B/) - Rozpowszechnianie danych osobowych, liczne wulgaryzmy i obrazy.
 
 
 
