@@ -98,4 +98,4 @@ Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
 * [J rrye/mqqq](https://mrucznik-rp.pl/user/78-j-rrye/)
 * [K E V L A R](https://mrucznik-rp.pl/user/7632-k-e-v-l-a-r/)
 * [KVMIL/RES3T](https://mrucznik-rp.pl/user/1187-kvmil/)
-* [Czacha/Więzień] (https://mrucznik-rp.pl/user/15102-czacha/) / (https://mrucznik-rp.pl/user/19671-wi%C4%99zie%C5%84/)
+* [Czacha](https://mrucznik-rp.pl/user/15102-czacha/)/[Więzień](https://mrucznik-rp.pl/user/19671-wi%C4%99zie%C5%84/)
