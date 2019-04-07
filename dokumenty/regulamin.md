@@ -9,10 +9,10 @@
 * Treści widoczne na forum, regulaminy, działy są ujęte prawami autorskimi.
 * Treści, które mają na celu promocję innych projektów są surowo zabronione.
 * Za czyny, które nie zostały wymienione w punktach regulaminu decyzję o ukaraniu użytkownika (i jego karze) podejmuje moderator za zgodą Administratora Forum.
-* Użytkownik jest zobowiązany do uzupełnienia pełnymi danymi z serwera gry SA-MP jakim jest Mrucznik Role Play (samp.mrucznik-rp.pl), pod polem [Nick IC]. Oszustwa są surowo zabronione i karane.
+* Użytkownik jest zobowiązany do uzupełnienia pełnymi danymi z serwera gry SA-MP jakim jest Mrucznik Role Play (samp.mrucznik-rp.pl), pod polem [Nick IC]. W przypadku braku/bezczynności konta na serwerze pole zostawiamy puste (warunek bezczynności konta to brak umieszczonych skarg/apelacji/tematów na forum związanych z kontem na serwerze w przeciągu 6 miesięcy). Oszustwa są surowo zabronione i karane.
 
 ## Korzystanie z forum Mrucznik Role Play
-* Na forum www.mrucznik-rp.pl, z jednego konta globalnego może korzystać tylko i wyłącznie jedna osoba, zabrania się udostępniania konta globalnego dla osób trzecich, podawania danych do logowania na stronę WWW. Zabrania się również tworzenia multikont na forum. Jeśli przypadkiem jest współdzielenie swojego łącza internetowego, dany użytkownik jest zobowiązany do zgłoszenia takiego czynu w specjalnym temacie. (Przejdź do tematu). Za brak wpisu w temacie o współdzieleniu łącza, karą może być nawet odcięcie od dostępu do forum.
+* Na forum www.mrucznik-rp.pl, z jednego konta globalnego może korzystać tylko i wyłącznie jedna osoba, zabrania się udostępniania konta globalnego dla osób trzecich, podawania danych do logowania na stronę WWW. Zabrania się również tworzenia multikont na forum. Jeśli przypadkiem jest współdzielenie swojego łącza internetowego, dany użytkownik jest zobowiązany do zgłoszenia takiego czynu w specjalnym temacie. [(Przejdź do tematu)](https://mrucznik-rp.pl/topic/5072-korzystanie-z-jednego-%C5%82%C4%85cza-internetowego/). Za brak wpisu w temacie o współdzieleniu łącza, karą może być nawet odcięcie od dostępu do forum.
 * Użytkownik jest w pełni świadomy, że jego konto globalne za złamanie regulaminu forum może zostać zablokowane, zawieszone, zawieszona możliwość pisania na forum, bądź tworzenia zawartości, wycięcia IP z serwera WWW na czas podany przez moderatora, który nadał karę.
 * Zakazuje się zamieszczania propozycji do czynów nielegalnych i niezgodnych z Polskim prawem.
 * Zakazuje się zamieszczania materiałów przez zarejestrowanego użytkownika forum, które mają na celu obrazy(tekst, obrazy, inne), treści erotyczne(filmy i inne), rasizmu, czy też gróźb i innych treści, które moderator uzna za niezgodne do wglądu przez publiczność forum, moderatorzy mają prawo do skasowania oraz ukrycia treści, a dodatkowo ukarania użytkownika, który zamieścił daną treść.
@@ -23,6 +23,7 @@
 * Nadmierne używanie słów wulgarnych, wyzwiska, hejt, trollowanie - skutkuje karą nadaną przez moderatora. W powyższe punkty wchodzą rzeczy takie jak prywatne wiadomości, statusy, posty, tematy, panel gracza. Karze podlega zarówno osoba, która wykonuje powyższe czyny oraz ta, która wdaje się w działania, oraz też nakłania do działań.
 * Zakazuje się umieszczanie ofert handlowych, linków w celach zarobkowych na całym forum, karą może być nawet odcięcie od dostępu do serwera SA-MP oraz forum.
 * Nazwa użytkownika nie może być wulgarna i w żaden sposób prowokacyjna, zastrzega się również błędów ortograficznych.
+* Forum nie wspiera piractwa, tym samym zakazuje się publikacji odnośników do stron zawierających oprogramowanie pirackie lub łamiące zabezpieczenia.
 * Na forum obowiązuje zakaz publikacji cudzych zdjęć i danych osobowych bez zgody osoby której dotyczą.
 
 ## Prawa moderatora.
