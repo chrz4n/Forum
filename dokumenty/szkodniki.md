@@ -46,6 +46,7 @@ ogromna ilość warnów, liczne multikonta, adresy vpn utrudniające weryfikacj�
 * [szyla](https://mrucznik-rp.pl/user/17551-szyla/) - gigantyczna ilość multikont
 * [Ksenon](https://mrucznik-rp.pl/user/14795-ksenon/) - gigantyczna kartoteka, liczne obrazy i wulgaryzmy, brak szacunku do administracji jak i do innych użytkowników, liczne MK po otrzymaniu bana
 * [rappa](https://mrucznik-rp.pl/user/16099-rappa/) - gigantyczna kratoteka, liczne obrazy i wulgaryzmy, pokaźne ilości multikont
+* [migiell](https://mrucznik-rp.pl/user/13646-migiell/) - Notoryczne tworzenie MultiKont
 * [Bonger](https://mrucznik-rp.pl/user/453-bonger/) - bogata kartoteka, liczne obrazy, multikonta, rozpowszechnianie logów serwerowych, dyskryminacja rasowa. Brak poprawy pomimo wielu szans
 * [Bradus/Braduś/Corleone/Gotti](https://mrucznik-rp.pl/user/384-gotti/) - Spora kartoteka, liczne obrazy, wulgaryzmy, prowokacje i offtop. Brak poprawy pomimo przeprosin i obietnic.
 
@@ -77,7 +78,6 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany
 
 
 
-
 ## Na celowniku
 Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
 * [marsjanin](http://mrucznik-rp.pl/user/843-marsjanin/)
@@ -98,4 +98,4 @@ Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
 * [J rrye/mqqq](https://mrucznik-rp.pl/user/78-j-rrye/)
 * [K E V L A R](https://mrucznik-rp.pl/user/7632-k-e-v-l-a-r/)
 * [KVMIL/RES3T](https://mrucznik-rp.pl/user/1187-kvmil/)
-* [Czacha](https://mrucznik-rp.pl/user/15102-czacha/)/[Więzień](https://mrucznik-rp.pl/user/19671-wi%C4%99zie%C5%84/)
+* [Czacha/Więzień] (https://mrucznik-rp.pl/user/15102-czacha/) / (https://mrucznik-rp.pl/user/19671-wi%C4%99zie%C5%84/)
