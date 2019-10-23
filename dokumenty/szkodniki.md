@@ -76,6 +76,7 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany
 * [Vanś](https://mrucznik-rp.pl/user/12246-van%C5%9B/) - Rozpowszechnianie danych osobowych, liczne wulgaryzmy i obrazy.
 * [Sofia](https://mrucznik-rp.pl/user/13130-sofia/) - Multikonto, kupno konta forumowego/wymiana kontami na forum.
 * [Pumba](https://mrucznik-rp.pl/user/15403-pumba/) - Spora kartoteka, liczne wulgaryzmy i obrazy, rozsyłanie iploggera na forum.
+* [SZITSU](https://mrucznik-rp.pl/user/19483-szitsu/)
 
 ## Na celowniku
 Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
