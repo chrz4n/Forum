@@ -99,3 +99,4 @@ Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
 * [KVMIL/RES3T](https://mrucznik-rp.pl/user/1187-kvmil/)
 * [Czacha/Więzień] (https://mrucznik-rp.pl/user/15102-czacha/) / (https://mrucznik-rp.pl/user/19671-wi%C4%99zie%C5%84/)
 * [SZITSU](https://mrucznik-rp.pl/user/19483-szitsu/)
+x
