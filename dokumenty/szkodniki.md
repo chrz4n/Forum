@@ -49,6 +49,7 @@ ogromna ilość warnów, liczne multikonta, adresy vpn utrudniające weryfikacj�
 * [migiell](https://mrucznik-rp.pl/user/13646-migiell/) - Notoryczne tworzenie MultiKont
 * [Bonger](https://mrucznik-rp.pl/user/453-bonger/) - bogata kartoteka, liczne obrazy, multikonta, rozpowszechnianie logów serwerowych, dyskryminacja rasowa. Brak poprawy pomimo wielu szans
 * [Bradus/Braduś/Corleone/Gotti](https://mrucznik-rp.pl/user/384-gotti/) - Spora kartoteka, liczne obrazy, wulgaryzmy, prowokacje i offtop. Brak poprawy pomimo przeprosin i obietnic.
+* [skMetinek/rysieskok/ThomasHRT](https://mrucznik-rp.pl/user/15814-skmetinek/) - Spora kartoteka, obrazy, działania na szkodę serwera, udostępnianie danych osobowych, korzystanie z VPN, liczne kłamstwa w apelacjach.
 
 ## Kandydaci do listy bez unbana
 Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany ban jest równoznaczny z automatycznym awansem użytkownika na listę bez unbana.
