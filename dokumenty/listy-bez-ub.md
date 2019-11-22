@@ -80,8 +80,8 @@ Osoby znajdujące się na czarnej liście nie otrzymają UnBana na serwerze, ale
 ## Czarna lista użytkowników forum
 Osoby znajdujące się na tej liście nigdy nie otrzymają dostępu do naszego forum, ale mogą posiadać konto na serwerze. 
 
-| Nick forum | Powód |
-| :---: | :------------------------------------------------------------------------------------------------------: |
+| Nick na forum                                    | Powód                                                                                                                         |
+|--------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|
 | [Gliniaszv1](https://mrucznik-rp.pl/user/3703-gliniaszv1/)  | 51 warnów, multikonta, obrazy ekipy, spam na forum |
 | [bartek luccese](https://mrucznik-rp.pl/user/347-bartek-luccese/) | iplogger w profilu, 38 warnów, rozsiewanie malware |
 | [ezowski/czarnych ezo](https://mrucznik-rp.pl/user/3460-czarnuch-ezo/)  | liczne multikonta, 22 warny, burdel na forum |
