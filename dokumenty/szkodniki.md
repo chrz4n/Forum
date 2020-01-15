@@ -80,6 +80,7 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany
 * [romon](https://mrucznik-rp.pl/user/17442-romon/) - Gruba kartoteka, liczne MK, kłamstwa w apelacjach.
 * [mckk](https://mrucznik-rp.pl/user/1726-mckk/) - Reklama, obrazy, offtopic oraz gigantyczna kartoteka.
 * [SZITSU](https://mrucznik-rp.pl/user/19483-szitsu/) - Dużo wpisów w kartotece, liczne obrazy i wulgaryzmy.
+* [extendo](https://mrucznik-rp.pl/user/5575-extendo/) - Bogata kartoteka, używanie VPN na forum, spam w dziale apelacji.
 
 ## Na celowniku
 Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
