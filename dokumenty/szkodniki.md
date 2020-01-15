@@ -77,7 +77,7 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany
 * [Sofia](https://mrucznik-rp.pl/user/13130-sofia/) - Multikonto, kupno konta forumowego/wymiana kontami na forum.
 * [Pumba](https://mrucznik-rp.pl/user/15403-pumba/) - Spora kartoteka, liczne wulgaryzmy i obrazy, rozsyłanie iploggera na forum.
 * [romon](https://mrucznik-rp.pl/user/17442-romon/) - Masa MultiKont na forum.
-
+* [extendo](https://mrucznik-rp.pl/user/5575-extendo/) - Bogata kartoteka, używanie VPN na forum, spam w dziale apelacji.
 ## Na celowniku
 Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
 * [marsjanin](http://mrucznik-rp.pl/user/843-marsjanin/)
