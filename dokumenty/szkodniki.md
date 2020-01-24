@@ -31,7 +31,6 @@ Liderzy w złej dziedzinie - **brak unbana** na forum.
 * [Poldi](https://mrucznik-rp.pl/user/17425-poldi/)/[CHIPS](https://mrucznik-rp.pl/user/17411-chips/)/[PanTadeusz](https://mrucznik-rp.pl/user/16423-pantadeusz/)/[_NEKTAR_](https://mrucznik-rp.pl/user/15101-nektar/)/[_Yamato_](https://mrucznik-rp.pl/user/14930-yamato/)/[_ROGAL_DDL_](https://mrucznik-rp.pl/user/14313-rogal-ddl/)/[Despacito](https://mrucznik-rp.pl/user/13627-despacito/)/[BosiakowieC](https://mrucznik-rp.pl/user/12802-bosiakowiec/)/[_BosioK_](https://mrucznik-rp.pl/user/11056-bosiok/)/[LonsdaLE](https://mrucznik-rp.pl/user/9161-lonsdale/)/[XardasoBosioK](https://mrucznik-rp.pl/user/8816-xardasobosiok/)/[Wake UP](https://mrucznik-rp.pl/user/6177-wake-up/)/[ DaxleR](https://mrucznik-rp.pl/user/230-daxler/) - nagminne multikonta
 * [kildra](https://mrucznik-rp.pl/user/7824-kildra/) - multikonta, liczne wulgaryzmy
 * [dinol mie swendzi](https://mrucznik-rp.pl/user/497-dinol-mie-swendzi/) aka albertos - spora kartoteka, reklama konkurencji, liczne obrazy i wulgaryzmy, offtop, brak kultury, trolling, brak szans na poprawe
-* [Shaggy](https://mrucznik-rp.pl/user/325-shaggy/) - gigantyczna kartoteka, brak kultury, liczne wulgaryzmy i obrazy, offtop, reklama konkurencji, mulikonta, brak szans na poprawe
 * [Snopek/Hapy Snopek](http://mrucznik-rp.pl/user/735-snopek-essa/) - gigantyczna kartoteka, brak kultury, liczne wulgaryzmy i obrazy, offtop, reklama konkurencji, mulikonta, brak szans na poprawe
 * [Konto Dezaktywowane (Campil Trooper/chemik/XXXHZXXX)](https://mrucznik-rp.pl/user/6917-konto-dezaktywowane/) - gigantyczna kartoteka, reklama konkurencji, liczne obrazy i wulgaryzmy, multikonta, brak szans na poprawe
 * [Connasse/Hey/Dżemik/63462365235203512](https://mrucznik-rp.pl/user/4336-connasse/) - 72 notek (2 grudnia 2017), celowe błędy ortograficzne, offtop, spam, trolling, brak kultury, szambo na forum, obrazy, totalny brak poprawy
@@ -80,6 +79,7 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany
 * [romon](https://mrucznik-rp.pl/user/17442-romon/) - Gruba kartoteka, liczne MK, kłamstwa w apelacjach.
 * [mckk](https://mrucznik-rp.pl/user/1726-mckk/) - Reklama, obrazy, offtopic oraz gigantyczna kartoteka.
 * [SZITSU](https://mrucznik-rp.pl/user/19483-szitsu/) - Dużo wpisów w kartotece, liczne obrazy i wulgaryzmy.
+* [Shaggy](https://mrucznik-rp.pl/user/325-shaggy/) - gigantyczna kartoteka, brak kultury, liczne wulgaryzmy i obrazy, offtop, reklama konkurencji, mulikonta, brak szans na poprawe
 
 ## Na celowniku
 Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
