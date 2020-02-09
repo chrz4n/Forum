@@ -46,7 +46,6 @@ ogromna ilość warnów, liczne multikonta, adresy vpn utrudniające weryfikacj�
 * [szyla](https://mrucznik-rp.pl/user/17551-szyla/) - gigantyczna ilość multikont
 * [Ksenon](https://mrucznik-rp.pl/user/14795-ksenon/) - gigantyczna kartoteka, liczne obrazy i wulgaryzmy, brak szacunku do administracji jak i do innych użytkowników, liczne MK po otrzymaniu bana
 * [rappa](https://mrucznik-rp.pl/user/16099-rappa/) - gigantyczna kratoteka, liczne obrazy i wulgaryzmy, pokaźne ilości multikont
-* [migiell](https://mrucznik-rp.pl/user/13646-migiell/) - Notoryczne tworzenie MultiKont
 * [Bonger](https://mrucznik-rp.pl/user/453-bonger/) - bogata kartoteka, liczne obrazy, multikonta, rozpowszechnianie logów serwerowych, dyskryminacja rasowa. Brak poprawy pomimo wielu szans
 * [Bradus/Braduś/Corleone/Gotti](https://mrucznik-rp.pl/user/384-gotti/) - Spora kartoteka, liczne obrazy, wulgaryzmy, prowokacje i offtop. Brak poprawy pomimo przeprosin i obietnic.
 * [skMetinek/rysieskok/ThomasHRT](https://mrucznik-rp.pl/user/15814-skmetinek/) - Spora kartoteka, obrazy, działania na szkodę serwera, udostępnianie danych osobowych, korzystanie z VPN, liczne kłamstwa w apelacjach.
@@ -80,6 +79,7 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany
 * [romon](https://mrucznik-rp.pl/user/17442-romon/) - Gruba kartoteka, liczne MK, kłamstwa w apelacjach.
 * [mckk](https://mrucznik-rp.pl/user/1726-mckk/) - Reklama, obrazy, offtopic oraz gigantyczna kartoteka.
 * [SZITSU](https://mrucznik-rp.pl/user/19483-szitsu/) - Dużo wpisów w kartotece, liczne obrazy i wulgaryzmy.
+* [migiell](https://mrucznik-rp.pl/user/13646-migiell/) - Notoryczne tworzenie MultiKont
 
 ## Na celowniku
 Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
