@@ -42,7 +42,6 @@ ogromna ilość warnów, liczne multikonta, adresy vpn utrudniające weryfikacj�
 * ~~[hesho](https://mrucznik-rp.pl/user/5669-hesho-g-star/)- 67 warnów (2 grudnia 2017), liczne orbazy, brak kultury, nagminne wulgaryzmy, ogólne szambo | awans na liste bez ub z listy ostatniej szansy, kolejne obrazy, kolejne multikonta, kompletny brak resocjalizacji~~ (cyrograf)
 * [kozan](https://mrucznik-rp.pl/user/9977-kozanosky/) - 62 warnów (25 grudnia 2018), nadmierne i masowe obrazy, publikowanie cudzych zdjęć, masa offtopu, ban po liście ostatniej szansy, wstawianie treści erotycznych
 * [JaszczuR](https://mrucznik-rp.pl/topic/76814-oban-jaszczur/) - obraza członka ekipy forum (długa wiązanka), życzenie śmierci - więcej info w warnie 20762
-* [szyla](https://mrucznik-rp.pl/user/17551-szyla/) - gigantyczna ilość multikont.
 * [Ksenon](https://mrucznik-rp.pl/user/14795-ksenon/) - gigantyczna kartoteka, liczne obrazy i wulgaryzmy, brak szacunku do administracji jak i do innych użytkowników, liczne MK po otrzymaniu bana
 * [rappa](https://mrucznik-rp.pl/user/16099-rappa/) - gigantyczna kratoteka, liczne obrazy i wulgaryzmy, pokaźne ilości multikont
 * [Bonger](https://mrucznik-rp.pl/user/453-bonger/) - bogata kartoteka, liczne obrazy, multikonta, rozpowszechnianie logów serwerowych, dyskryminacja rasowa. Brak poprawy pomimo wielu szans
@@ -78,6 +77,7 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany
 * [romon](https://mrucznik-rp.pl/user/17442-romon/) - Gruba kartoteka, liczne MK, kłamstwa w apelacjach.
 * [mckk](https://mrucznik-rp.pl/user/1726-mckk/) - Reklama, obrazy, offtopic oraz gigantyczna kartoteka.
 * [SZITSU](https://mrucznik-rp.pl/user/19483-szitsu/) - Dużo wpisów w kartotece, liczne obrazy i wulgaryzmy.
+* [szyla](https://mrucznik-rp.pl/user/17551-szyla/) - gigantyczna ilość multikont.
 * [Shaggy](https://mrucznik-rp.pl/user/325-shaggy/) - gigantyczna kartoteka, brak kultury, liczne wulgaryzmy i obrazy, offtop, reklama konkurencji, mulikonta, brak szans na poprawe
 * [migiell](https://mrucznik-rp.pl/user/13646-migiell/) - Notoryczne tworzenie MultiKont
 
