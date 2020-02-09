@@ -47,7 +47,9 @@ ogromna ilość warnów, liczne multikonta, adresy vpn utrudniające weryfikacj�
 * [Bonger](https://mrucznik-rp.pl/user/453-bonger/) - bogata kartoteka, liczne obrazy, multikonta, rozpowszechnianie logów serwerowych, dyskryminacja rasowa. Brak poprawy pomimo wielu szans
 * [Bradus/Braduś/Corleone/Gotti](https://mrucznik-rp.pl/user/384-gotti/) - Spora kartoteka, liczne obrazy, wulgaryzmy, prowokacje i offtop. Brak poprawy pomimo przeprosin i obietnic.
 * [skMetinek/rysieskok/ThomasHRT](https://mrucznik-rp.pl/user/15814-skmetinek/) - Spora kartoteka, obrazy, działania na szkodę serwera, udostępnianie danych osobowych, korzystanie z VPN, liczne kłamstwa w apelacjach.
+* ~~[lukaszek toziomal/ralph](https://mrucznik-rp.pl/user/8703-luuckydice/) - liczne obrazy, offtop, liczne wulgaryzmy, gigantyczna kartoteka.~~ (cyrograf)
 * ~~[ripyoungpappy/Vanś](https://mrucznik-rp.pl/user/12246-van%C5%9B/) - Rozpowszechnianie danych osobowych, liczne wulgaryzmy i obrazy.~~ (cyrograf)
+
 
 ## Kandydaci do listy bez unbana
 Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany ban jest równoznaczny z automatycznym awansem użytkownika na listę bez unbana.
@@ -58,7 +60,6 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany
 * [fidif/twój stary pijany](https://mrucznik-rp.pl/user/306-fidif/) - 52 warny (2 grudnia 2017), masa notatek za orbazy, brak poprawy, offtop, totalny brak kultury i szans na poprawe
 * [Pan Morisson/young laflame](https://mrucznik-rp.pl/user/531-pan-morisson/) - 51 warnów (2 grudnia 2017), liczny offtop, obrazy, ogólne szambo, brak poprawy
 * [en6x](http://mrucznik-rp.pl/user/4791-en6x/) - 49 warnów (2 grudnia 2017), liczne obrazy, offtop, brak szansy na poprawe
-* [LuuckyDice/ralph](https://mrucznik-rp.pl/user/8703-luuckydice/) - liczne obrazy, offtop, liczne wulgaryzmy, gigantyczna kartoteka,
 * [OYCHE DONIZ/Benito Mussolini](http://mrucznik-rp.pl/user/911-oyche-doniz/) - gigantyczna kartoteka, liczne obrazy, offtop, prowokacje, brak kultury
 * [don faraone/frachty g star](https://mrucznik-rp.pl/user/1119-lil-frachty/) - gigantyczna kartoteka, offtop, liczne obrazy i wulgaryzmy, treści pornograficzne, brak kultury, vpn
 * [PRT](https://mrucznik-rp.pl/user/267-prt/) - gigantyczna kartoteka, offtop, liczne i masowe obrazy, brak kultury
