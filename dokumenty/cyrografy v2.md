@@ -1,8 +1,11 @@
 # Forumowe cyrografy
 ## Regulamin
-1.
-2.
-3.
+1. Cyrograf to forma warunkowego dostępu do forum dla osób znajdujących się na forumowej liście bez unbana.
+2. Apelować o podpisanie cyrografu może osoba posiadająca listę bez unbana na forum. Aby otrzymać unbana należy napisać apelację z konta apelacyjnego, lub przez pośrednika w dziale do tego przeznaczonym, wtedy rozpoczyna się procedura podpisania cyrografu.
+4. Wniosek o podpisanie cyrografu może zostać odrzucony przez Administrację Forum.
+3. Osobom, które mają podpisany cyrograf nie są zdejmowane punkty ostrzeżeń nadane przez moderatorów (źle nadane kary są zdejmowane po napisaniu normalnej apelacji, wniosek taki rozpatruje Administracja Forum).
+4. Jedynym sposobem na otrzymanie unwarna jest napisanie apelacji w prywatnej wiadomości do Administracji Forum.
+5. Osoby posiadające cyrograf nadal znajdują się na czarnej liście forum.
 
 
 | ID | nick_ic | name | members_display_name | Data |
