@@ -8,6 +8,7 @@
 5. Osoby posiadające cyrograf nadal znajdują się na czarnej liście forum.
 
 
+
 | ID | nick_ic | name | members_display_name | Data |
 |----|:-------:|:----:|:--------------------:|:----:|
 | 1 | Andrew Leppere | Andrzej Lepper | [Andrzej](https://mrucznik-rp.pl/user/287-andrzej/) | 2018-08-12/2020-02-01 |
