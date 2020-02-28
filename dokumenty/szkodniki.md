@@ -81,6 +81,7 @@ Next time ban wbity prosto w czoło, nawet za najmniejszą pierdołę. Otrzymany
 * [szyla](https://mrucznik-rp.pl/user/17551-szyla/) - gigantyczna ilość multikont.
 * [Shaggy](https://mrucznik-rp.pl/user/325-shaggy/) - gigantyczna kartoteka, brak kultury, liczne wulgaryzmy i obrazy, offtop, reklama konkurencji, mulikonta, brak szans na poprawe
 * [migiell](https://mrucznik-rp.pl/user/13646-migiell/) - Notoryczne tworzenie MultiKont
+* [Człowiek Wniosek](https://mrucznik-rp.pl/user/10829-kr%C3%B3ciutko/) - usunięcie konta i powrót
 
 ## Na celowniku
 Brak pobłażliwości - kary śrubowane za najmniejsze pierdoły.
