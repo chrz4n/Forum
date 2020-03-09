@@ -45,8 +45,8 @@ ogromna ilość warnów, liczne multikonta, adresy vpn utrudniające weryfikacj�
 * [Ksenon](https://mrucznik-rp.pl/user/14795-ksenon/) - gigantyczna kartoteka, liczne obrazy i wulgaryzmy, brak szacunku do administracji jak i do innych użytkowników, liczne MK po otrzymaniu bana
 * [rappa](https://mrucznik-rp.pl/user/16099-rappa/) - gigantyczna kratoteka, liczne obrazy i wulgaryzmy, pokaźne ilości multikont
 * [Bonger](https://mrucznik-rp.pl/user/453-bonger/) - bogata kartoteka, liczne obrazy, multikonta, rozpowszechnianie logów serwerowych, dyskryminacja rasowa. Brak poprawy pomimo wielu szans
-* [Bradus/Braduś/Corleone/Gotti](https://mrucznik-rp.pl/user/384-gotti/) - Spora kartoteka, liczne obrazy, wulgaryzmy, prowokacje i offtop. Brak poprawy pomimo przeprosin i obietnic.
-* [skMetinek/rysieskok/ThomasHRT](https://mrucznik-rp.pl/user/15814-skmetinek/) - Spora kartoteka, obrazy, działania na szkodę serwera, udostępnianie danych osobowych, korzystanie z VPN, liczne kłamstwa w apelacjach.
+* ~~[Bradus/Braduś/Corleone/Gotti](https://mrucznik-rp.pl/user/384-gotti/) - Spora kartoteka, liczne obrazy, wulgaryzmy, prowokacje i offtop. Brak poprawy pomimo przeprosin i obietnic.~~ (cyrograf)
+* ~~[skMetinek/rysieskok/ThomasHRT](https://mrucznik-rp.pl/user/15814-skmetinek/) - Spora kartoteka, obrazy, działania na szkodę serwera, udostępnianie danych osobowych, korzystanie z VPN, liczne kłamstwa w apelacjach.~~ (cyrograf)
 * ~~[lukaszek toziomal/ralph](https://mrucznik-rp.pl/user/8703-luuckydice/) - liczne obrazy, offtop, liczne wulgaryzmy, gigantyczna kartoteka.~~ (cyrograf)
 * ~~[ripyoungpappy/Vanś](https://mrucznik-rp.pl/user/12246-van%C5%9B/) - Rozpowszechnianie danych osobowych, liczne wulgaryzmy i obrazy.~~ (cyrograf)
 
