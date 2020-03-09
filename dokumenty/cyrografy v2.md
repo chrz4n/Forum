@@ -29,4 +29,5 @@
 | 16 | Adil Arrif Azzam | Azzam | [Azzam](https://mrucznik-rp.pl/user/4191-azzam/) | 2020-01-02 |
 | 17 | Colin Sanchez | thelooney | [hsh eo](https://mrucznik-rp.pl/user/5669-hsh-eo/) | 2020-01-26 |
 | 18 | Christopher Hawkins | Dowell | [dowell](https://mrucznik-rp.pl/user/2127-doweii/) | 2020-02-01 |
-| 19 | Frank Gotti | Bykus | [Konto Premium](https://mrucznik-rp.pl/user/384-konto-premium/) | 2020-03-09 |
+| 19 | Paul Brain | xM3T1N | [skMetinek](https://mrucznik-rp.pl/user/15814-skmetinek/) | 2020-02-02 |
+| 20 | Frank Gotti | Bykus | [Konto Premium](https://mrucznik-rp.pl/user/384-konto-premium/) | 2020-03-09 |
