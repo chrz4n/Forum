@@ -24,14 +24,14 @@
 | 11 | Noach Dejong | Gliniaszv1 | [Gliniaszv1](https://mrucznik-rp.pl/user/3703-gliniaszv1/) | 2019-07-19 |
 | 12 | Simon Evering | Oficer | [Oficer](https://mrucznik-rp.pl/user/98-oficer/) | 2019-06-19 |
 | 13 | Rashad Northwood | VanŚ | [bluefacebabyyoaight](https://mrucznik-rp.pl/user/12246-bluefacebabyyoaight/) | 2019-07-30 |
-| 14 | ~~Zbyszek Paprotka~~ | ~~Lawrance/PaprotkaToJa~~ | ~~[yeahbunny](https://mrucznik-rp.pl/user/8499-yeahbunny/)~~ | ~~2019-10-09~~ |
+| 14 | ~~Zbyszek Paprotka~~ | ~~Lawrance/PaprotkaToJa~~ | ~~[yeahbunny](https://mrucznik-rp.pl/user/8499-yeahbunny/)~~ | ~~2019-10-09~~|
 | 15 | Alexys Montechiaro | lmaa0 | [alicja](https://mrucznik-rp.pl/user/3272-alicja/) | 2019-10-20 |
 | 16 | Adil Arrif Azzam | Azzam | [Azzam](https://mrucznik-rp.pl/user/4191-azzam/) | 2020-01-02 |
 | 17 | Colin Sanchez | thelooney | [hsh eo](https://mrucznik-rp.pl/user/5669-hsh-eo/) | 2020-01-26 |
 | 18 | xxx | Vegan | [Vegan](https://mrucznik-rp.pl/user/1509-vegan/) | 2020-01-31 |
 | 19 | Christopher Hawkins | Dowell | [dowell](https://mrucznik-rp.pl/user/2127-doweii/) | 2020-02-01 |
 | 20 | Philip Mistretta | Lagg3R_Lag | [gandalf](https://mrucznik-rp.pl/user/3465-gandalf/) | 2020-02-01 |
-| 21 | ~~Paul Brain | xM3T1N | [skMetinek](https://mrucznik-rp.pl/user/15814-skmetinek/) | 2020-02-02 |~~
-| 22 | ~~Bob Gattusioni | Bonger | [Bonger](https://mrucznik-rp.pl/user/453-bonger/) | 2020-02-20 |~~
+| 21 | ~~Paul Brain~~ | ~~xM3T1N~~ | ~~[skMetinek](https://mrucznik-rp.pl/user/15814-skmetinek/)~~ | ~~2020-02-02~~ |
+| 22 | ~~Bob Gattusioni~~ | ~~Bonger~~ | ~~[Bonger](https://mrucznik-rp.pl/user/453-bonger/)~~ | ~~2020-02-20~~ |
 | 23 | Frank Gotti | Bykus | [Konto Premium](https://mrucznik-rp.pl/user/384-konto-premium/) | 2020-03-09 |
 
