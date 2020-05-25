@@ -34,4 +34,5 @@
 | 21 | ~~Paul Brain~~ | ~~xM3T1N~~ | ~~[skMetinek](https://mrucznik-rp.pl/user/15814-skmetinek/)~~ | ~~2020-02-02~~ |
 | 22 | ~~Bob Gattusioni~~ | ~~Bonger~~ | ~~[Bonger](https://mrucznik-rp.pl/user/453-bonger/)~~ | ~~2020-02-20~~ |
 | 23 | Frank Gotti | Bykus | [Konto Premium](https://mrucznik-rp.pl/user/384-konto-premium/) | 2020-03-09 |
+| 24 | Ross Stonecold | Ksenon | [Ksenon](https://mrucznik-rp.pl/user/14795-ksenon/) | 2020-05-25 |
 
