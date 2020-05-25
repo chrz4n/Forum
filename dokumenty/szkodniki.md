@@ -42,7 +42,7 @@ ogromna ilość warnów, liczne multikonta, adresy vpn utrudniające weryfikacj�
 * ~~[hesho](https://mrucznik-rp.pl/user/5669-hesho-g-star/)- 67 warnów (2 grudnia 2017), liczne orbazy, brak kultury, nagminne wulgaryzmy, ogólne szambo | awans na liste bez ub z listy ostatniej szansy, kolejne obrazy, kolejne multikonta, kompletny brak resocjalizacji~~ (cyrograf)
 * [kozan](https://mrucznik-rp.pl/user/9977-kozanosky/) - 62 warnów (25 grudnia 2018), nadmierne i masowe obrazy, publikowanie cudzych zdjęć, masa offtopu, ban po liście ostatniej szansy, wstawianie treści erotycznych
 * [JaszczuR](https://mrucznik-rp.pl/topic/76814-oban-jaszczur/) - obraza członka ekipy forum (długa wiązanka), życzenie śmierci - więcej info w warnie 20762
-* [Ksenon](https://mrucznik-rp.pl/user/14795-ksenon/) - gigantyczna kartoteka, liczne obrazy i wulgaryzmy, brak szacunku do administracji jak i do innych użytkowników, liczne MK po otrzymaniu bana
+* ~~[Ksenon](https://mrucznik-rp.pl/user/14795-ksenon/) - gigantyczna kartoteka, liczne obrazy i wulgaryzmy, brak szacunku do administracji jak i do innych użytkowników, liczne MK po otrzymaniu bana~~ (cyrograf)
 * [rappa](https://mrucznik-rp.pl/user/16099-rappa/) - gigantyczna kratoteka, liczne obrazy i wulgaryzmy, pokaźne ilości multikont
 * [Bonger](https://mrucznik-rp.pl/user/453-bonger/) - bogata kartoteka, liczne obrazy, multikonta, rozpowszechnianie logów serwerowych, dyskryminacja rasowa. Brak poprawy pomimo wielu szans
 * ~~[Bradus/Braduś/Corleone/Gotti](https://mrucznik-rp.pl/user/384-gotti/) - Spora kartoteka, liczne obrazy, wulgaryzmy, prowokacje i offtop. Brak poprawy pomimo przeprosin i obietnic.~~ (cyrograf)
