@@ -49,6 +49,7 @@ ogromna ilość warnów, liczne multikonta, adresy vpn utrudniające weryfikacj�
 * ~~[skMetinek/rysieskok/ThomasHRT](https://mrucznik-rp.pl/user/15814-skmetinek/) - Spora kartoteka, obrazy, działania na szkodę serwera, udostępnianie danych osobowych, korzystanie z VPN, liczne kłamstwa w apelacjach.~~ (cyrograf)
 * ~~[lukaszek toziomal/ralph](https://mrucznik-rp.pl/user/8703-luuckydice/) - liczne obrazy, offtop, liczne wulgaryzmy, gigantyczna kartoteka.~~ (cyrograf)
 * ~~[ripyoungpappy/Vanś](https://mrucznik-rp.pl/user/12246-van%C5%9B/) - Rozpowszechnianie danych osobowych, liczne wulgaryzmy i obrazy.~~ (cyrograf)
+* [chrz4n](https://mrucznik-rp.pl/user/18130-chrz4n) - massban na forum i serwerze.
 
 
 ## Kandydaci do listy bez unbana
